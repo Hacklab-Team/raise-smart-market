@@ -1,0 +1,17 @@
+{
+  "name": "RAISE Smart Market",
+  "short_name": "RAISE",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1d4ed8",
+  "description": "Live Store Operating System",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+c:\Users\USER\Downloads\icon.png.jpg
